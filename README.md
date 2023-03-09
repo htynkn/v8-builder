@@ -1,8 +1,7 @@
 # V8 Builder
 #### An automatic [V8 engine](https://v8.dev) builder via [Github Actions](https://github.com/features/actions)
 
-![Get latest V8 stable version](https://github.com/tbossi/v8-builder/workflows/Get%20latest%20V8%20stable%20version/badge.svg?branch=master)
-![Build V8](https://github.com/tbossi/v8-builder/workflows/Build%20V8/badge.svg?branch=master)
+[![Build V8](https://github.com/htynkn/v8-builder/actions/workflows/build.yml/badge.svg)](https://github.com/htynkn/v8-builder/actions/workflows/build.yml)
 
 ## Why an automatic builder?
 Despite extensive research on the web, I have not found anyone who provides the V8 binaries already compiled for the various platforms (at least not recent versions).

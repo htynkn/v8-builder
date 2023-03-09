@@ -142,7 +142,7 @@ jobs:
       with:
         name: windows
         path: |
-          v8/v8/out.gn/x64.release/obj/*.dll
+          v8/v8/out.gn/x64.release/obj/*.lib
 
   headers_and_documentation:
     name: Headers and Documentation
